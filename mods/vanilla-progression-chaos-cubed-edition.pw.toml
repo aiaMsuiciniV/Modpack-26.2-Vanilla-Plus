@@ -1,0 +1,13 @@
+name = "Vanilla Progression Chaos Cubed Edition"
+filename = "vanillaprogression-1.7.13.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "436a124161c97885a7be911b664f7a92323def83"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8674563
+project-id = 1628636

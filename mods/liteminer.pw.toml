@@ -1,0 +1,13 @@
+name = "Liteminer"
+filename = "liteminer-fabric-4.3.1+26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "73a7d4202696e74722e8025516f4ff24641f07ac"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8930289
+project-id = 1133225

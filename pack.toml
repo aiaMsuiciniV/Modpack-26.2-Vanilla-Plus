@@ -1,0 +1,16 @@
+name = "Modpack do Ju"
+author = "Vinicius"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "f3cefe735718a4b6301a0a874b7e42681c1edd7568863b649f2adfdf2855af86"
+
+[versions]
+fabric = "0.19.5"
+minecraft = "26.2"
+
+[options]
+acceptable-game-versions = ["26.2"]

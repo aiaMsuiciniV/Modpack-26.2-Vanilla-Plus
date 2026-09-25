@@ -1,0 +1,13 @@
+name = "Nord's Leaf Me Alone"
+filename = "leafmealone-1.2.0.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "0c741c8e366b229f2ab56ca9c65e3e1fd2994133"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 7416421
+project-id = 1287189

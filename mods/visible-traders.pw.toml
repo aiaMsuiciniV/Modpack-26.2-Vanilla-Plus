@@ -1,0 +1,13 @@
+name = "Visible Traders"
+filename = "Visible Traders-2.5.1-universal.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/AhllI99f/versions/TojbcxPs/Visible%20Traders-2.5.1-universal.jar"
+hash-format = "sha512"
+hash = "6c4ab1376205563a888dfa6b17f4de9a37da6e20d6c024c41bfb16efc1b79e4dabc81fddeba22fb10c4b641a7170f04214df9cb607a9c0d6aa5667096bf0958e"
+
+[update]
+[update.modrinth]
+mod-id = "AhllI99f"
+version = "TojbcxPs"

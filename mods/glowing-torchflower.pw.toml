@@ -1,0 +1,13 @@
+name = "Glowing Torchflower"
+filename = "glowing-torchflower-fabric-mc26.2-1.4.1.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c01a821dcb28898412cece199f2e8637623c703d"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8662990
+project-id = 827288

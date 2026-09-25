@@ -1,0 +1,13 @@
+name = "Skeleton AI Fix"
+filename = "SkeletonAIFix-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b1526810d2ec15336135dea07f3f95793aff6ce5"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8280733
+project-id = 319351

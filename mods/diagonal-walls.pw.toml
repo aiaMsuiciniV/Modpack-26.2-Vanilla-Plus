@@ -1,0 +1,13 @@
+name = "Diagonal Walls"
+filename = "DiagonalWalls-v26.2.0-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "c4a9f4437e2a1437acc2f596ecda4a9447c5d842"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8271220
+project-id = 969422

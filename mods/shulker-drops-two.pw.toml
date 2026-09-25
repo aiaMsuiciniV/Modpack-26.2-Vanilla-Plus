@@ -1,0 +1,13 @@
+name = "Shulker Drops Two"
+filename = "shulkerdropstwo-26.2.0-3.6.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "b3bdbde0088ce0f1c8f25b1c46ef2ba3d168dc02"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8273033
+project-id = 302548

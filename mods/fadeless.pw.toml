@@ -1,0 +1,13 @@
+name = "Fadeless"
+filename = "fadeless-2.0.8-26.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "85c07f43ea75a5237001fd4dba54f9a6b8c88969"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8260343
+project-id = 861310

@@ -1,0 +1,13 @@
+name = "Effect Insights"
+filename = "EffectInsights-v26.2.2-mc26.2.x-Fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "a316697948ef69b8d477e2a159193d126ce89b01"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8328829
+project-id = 891326

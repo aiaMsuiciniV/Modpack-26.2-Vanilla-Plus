@@ -1,0 +1,13 @@
+name = "Leaf Decay Instant"
+filename = "instant_leaf_decay-2.0.2.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "5edfceceb044ff9de65e4058960b484e136afd97"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 8423392
+project-id = 1500393
