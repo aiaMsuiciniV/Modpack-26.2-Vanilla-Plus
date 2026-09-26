@@ -60,6 +60,11 @@ hash = "9d69e0b7db9cf4b652821593a466d322d9de64623c6bf6eaafc49fe65c23a2ad"
 metafile = true
 
 [[files]]
+file = "mods/crafting-on-a-stick.pw.toml"
+hash = "7cd87abaeaf0f736c6e309b2d0b3bb8a70810c2679ea8cdd3d07a6db4447bbeb"
+metafile = true
+
+[[files]]
 file = "mods/dark-loading-screen.pw.toml"
 hash = "6548c68f1cadfb13b5a3f4ebddfa1748f12271e1c376222191190f6b99c14c8d"
 metafile = true
@@ -167,6 +172,11 @@ metafile = true
 [[files]]
 file = "mods/friendly-fire.pw.toml"
 hash = "eee11a1fafe88693d9d58f33e89895521b02a5b47f2b0c069106844d628736ba"
+metafile = true
+
+[[files]]
+file = "mods/fusion-connected-textures.pw.toml"
+hash = "ff7862220a9b44c2301be1b8e9c6583ff82f1aa7c2038c5bd8edd4a208af22a4"
 metafile = true
 
 [[files]]
@@ -372,6 +382,16 @@ metafile = true
 [[files]]
 file = "mods/travelers-backpack-fabric.pw.toml"
 hash = "f71358be481b6d3bab42aed0559c85c26605712a33107c3f2398c9d5fbf845ff"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-elytra-support.pw.toml"
+hash = "1cd983cf5148e9c1bf2552e3d09ae089a9c6b5a19a298ab349d770a8617671b2"
+metafile = true
+
+[[files]]
+file = "mods/trinkets-updated.pw.toml"
+hash = "006537f239b9764332e5c1c55c6e4c1c0cf7ef21a5357d6f905e5faab7727712"
 metafile = true
 
 [[files]]
