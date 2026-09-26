@@ -206,6 +206,11 @@ hash = "52f3cb8bb64b5a2596a2f86c5ceba395b1ebc4f92e279cb5f28da21eccd7bac9"
 metafile = true
 
 [[files]]
+file = "mods/jamlib.pw.toml"
+hash = "d834fa2fe24acc1b76b4ffa1cce5aa4eeb15e3ca050fa4187a85a2fa69fec0fd"
+metafile = true
+
+[[files]]
 file = "mods/jei.pw.toml"
 hash = "7ca61849384e46abfbfc791780519256a33e77132ff084b12174f51b7644299e"
 metafile = true
@@ -298,6 +303,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a5e797bb87e5e7bcb9110de0638b38b2ab051016de947999700c27e7f4cc67a6"
+metafile = true
+
+[[files]]
+file = "mods/rightclickharvest.pw.toml"
+hash = "9823e4edb7cde19bea50da788d4284abb0c113de4a88ee7172c4963a68666930"
 metafile = true
 
 [[files]]
