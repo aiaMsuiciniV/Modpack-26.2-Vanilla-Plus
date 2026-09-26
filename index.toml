@@ -5,10 +5,6 @@ file = ".nojekyll"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
-file = "README.md"
-hash = "811ed2f4fb8fcc78faa525340fdf8940ec34f986784b0313f69e38486de92b9c"
-
-[[files]]
 file = "mods/amber-lib.pw.toml"
 hash = "9b7a4a6737e45322e26969c8de203623616bbbedb75504e202d8f99dfafb3802"
 metafile = true
