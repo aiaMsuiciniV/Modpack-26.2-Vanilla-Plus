@@ -55,6 +55,11 @@ hash = "f35f72f7f66d79bc5d6d613eb4bd7937800291a299a40e8d6186deda13896440"
 metafile = true
 
 [[files]]
+file = "mods/continuity.pw.toml"
+hash = "57ec34a7f37b99e4638f5214d1de0bef916e981743d3648c57cad1e8e399982b"
+metafile = true
+
+[[files]]
 file = "mods/controlling.pw.toml"
 hash = "9d69e0b7db9cf4b652821593a466d322d9de64623c6bf6eaafc49fe65c23a2ad"
 metafile = true
@@ -172,11 +177,6 @@ metafile = true
 [[files]]
 file = "mods/friendly-fire.pw.toml"
 hash = "eee11a1fafe88693d9d58f33e89895521b02a5b47f2b0c069106844d628736ba"
-metafile = true
-
-[[files]]
-file = "mods/fusion-connected-textures.pw.toml"
-hash = "ff7862220a9b44c2301be1b8e9c6583ff82f1aa7c2038c5bd8edd4a208af22a4"
 metafile = true
 
 [[files]]
@@ -312,6 +312,11 @@ metafile = true
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
 hash = "a5e797bb87e5e7bcb9110de0638b38b2ab051016de947999700c27e7f4cc67a6"
+metafile = true
+
+[[files]]
+file = "mods/resourcify.pw.toml"
+hash = "50b09b15e5b107d3cec60f0dba323bb6ec61562bcaf64fb275c398ea6b845001"
 metafile = true
 
 [[files]]
