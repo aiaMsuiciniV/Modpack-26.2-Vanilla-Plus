@@ -1,0 +1,13 @@
+name = "Tiny Coal & Tiny Charcoal"
+filename = "tinycoal-26.2-0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Y5bC6Ftg/versions/LfdF7Jg6/tinycoal-26.2-0.1.jar"
+hash-format = "sha512"
+hash = "0b0f2e5150426ddde02a667f7b1459c5c5c429fb106c73d47364ad1ea540b95b02f3d97cbefda67ddb1316bbdb68dad965f40e443e9412b93a8ed394327e3115"
+
+[update]
+[update.modrinth]
+mod-id = "Y5bC6Ftg"
+version = "LfdF7Jg6"

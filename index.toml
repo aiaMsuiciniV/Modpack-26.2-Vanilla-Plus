@@ -140,6 +140,11 @@ hash = "e22ee21706060d19956615e27d3904b48af13b7826a7b92f87b6488b9f3b1ab0"
 metafile = true
 
 [[files]]
+file = "mods/falldropbackport.pw.toml"
+hash = "1a19143eb4ebcfcae132340470c9c9a8b7ea567f4709023bbc21f336086658e9"
+metafile = true
+
+[[files]]
 file = "mods/fast-item-frames.pw.toml"
 hash = "4b5cbffdb43ba26e6441617348673ff23b269424a049a70123c0f12ee524d051"
 metafile = true
@@ -375,8 +380,18 @@ hash = "eb368d7965a0137c53179d1277800a68ab5478e104487b9b607022313c49f07c"
 metafile = true
 
 [[files]]
+file = "mods/terrablender.pw.toml"
+hash = "ff1940da0ab52a46300559ae87adda2a4cafc211bbf22def5217c4169ee9a56e"
+metafile = true
+
+[[files]]
 file = "mods/text-placeholder-api.pw.toml"
 hash = "6498964aef3c1cb63466bf680d6e52b134c1288a33dc6597f990892b60a2b005"
+metafile = true
+
+[[files]]
+file = "mods/tinycoal.pw.toml"
+hash = "836b7dbb87995bd60d2781e635940d8a47322f271c70d0a978ea673c1cb32638"
 metafile = true
 
 [[files]]
