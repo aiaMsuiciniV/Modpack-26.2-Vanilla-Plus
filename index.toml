@@ -85,11 +85,6 @@ hash = "cde01216b5130626609411fcd3ee5f8f880222c310bb08ce20fc26586a57e393"
 metafile = true
 
 [[files]]
-file = "mods/easy-magic.pw.toml"
-hash = "6cbcec02c1573d4f01d0fc4145b0fda5372d66fd00bfb7b075b72157099f4620"
-metafile = true
-
-[[files]]
 file = "mods/effect-insights.pw.toml"
 hash = "87a834cefff9b9890dd1a68850f213819423c6b834949519fb5887ad54080f05"
 metafile = true
