@@ -205,9 +205,13 @@ hash = "a1cf2d40d033c4ed1e808a7e794f7fb6d5807fd72a77c1882350ccb4bbf128bf"
 metafile = true
 
 [[files]]
-file = "mods/irisshaders.pw.toml"
-hash = "df54ce4f85c775f6903a740a267e0f78e2d7042ada1497beb8740bed4bc26d69"
+file = "mods/iris.pw.toml"
+hash = "7262c5dea44f3ef66051c5300f498d03ad64f97cc5c920dd04ec8f0ba607bb92"
 metafile = true
+
+[[files]]
+file = "mods/irisshaders.pw.toml.backup"
+hash = "df54ce4f85c775f6903a740a267e0f78e2d7042ada1497beb8740bed4bc26d69"
 
 [[files]]
 file = "mods/jade.pw.toml"
@@ -316,8 +320,12 @@ metafile = true
 
 [[files]]
 file = "mods/reeses-sodium-options.pw.toml"
-hash = "a5e797bb87e5e7bcb9110de0638b38b2ab051016de947999700c27e7f4cc67a6"
+hash = "06f312e6136251001b1428f93802a6b94d8ed9c2b2496ded7f8c8cb9a767bb47"
 metafile = true
+
+[[files]]
+file = "mods/reeses-sodium-options.pw.toml.backup"
+hash = "a5e797bb87e5e7bcb9110de0638b38b2ab051016de947999700c27e7f4cc67a6"
 
 [[files]]
 file = "mods/resourcify.pw.toml"
@@ -361,8 +369,12 @@ metafile = true
 
 [[files]]
 file = "mods/sodium.pw.toml"
-hash = "f7483f8c8e57f22e01d18aa036189f2ad1d66c4fd245b4182be2bb93d3898956"
+hash = "a899b14d4bbab643586ac2734da162e9cae579d461f81776804c598a03297ebe"
 metafile = true
+
+[[files]]
+file = "mods/sodium.pw.toml.backup"
+hash = "f7483f8c8e57f22e01d18aa036189f2ad1d66c4fd245b4182be2bb93d3898956"
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
